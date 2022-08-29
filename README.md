@@ -1,5 +1,4 @@
-# T-test_Assignment
- Assignment 3: T-tests
+# T-tests
 
 1) Is there a difference between sex (M:F) and the number of days in hospital? 
 Yes, T-test statistic value = 9.542637042242887, P-value = 1.4217299655114968e-21
